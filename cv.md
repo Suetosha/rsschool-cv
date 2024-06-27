@@ -1,9 +1,7 @@
 
-
 ![Elizaveta Suetova](https://cdn.imgchest.com/files/b49zc3m8qzy.jpg)
 # Elizaveta Suetova
 
----
 Contact information
 ---
 #### phone: + 381 61 6890 347
@@ -11,17 +9,16 @@ Contact information
 #### [GitHub](https://github.com/Suetosha)
 #### [Telegram](https://t.me/suetosha)
 
----
+
 About myself
 ---
-
 A Junior Python Developer with 1 year of experience in developing and deploying applications using Python and its frameworks.
 
 Have an experience in working with databases (PostgreSQL, SQLite, MySQL) as well as popular web development frameworks such as Django, Flask.
 
 Focusing on become python backend developer with knowledge of web frontend basics
 
----
+
 Skills
 ---
 - Python
@@ -33,7 +30,7 @@ Skills
 - SQL
 - PostgreSQL, SQLite, MySQL
 
----
+
 Work experience
 ---
 ###  Freelance &nbsp;2023 - present
@@ -41,7 +38,7 @@ Developed and integrated web applications using Django or Flask web frameworks.
 
 Implemented a telegram bot for sending new episodes of anime with the selected voice acting studio.
 
----
+
 Code example
 ---
 
@@ -72,7 +69,7 @@ class Student:
             self.tests_taken[cls.name] = f'Failed! ({p}%)'
 ```
 
----
+
 Education
 ---
 - Saint Petersburg veterinary academy
@@ -86,7 +83,7 @@ Education
 - RS School JavaScript / Front-end Course - in progress
 
 
----
+
 Languages
 ---
 - Russian - Native
