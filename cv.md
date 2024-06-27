@@ -1,3 +1,6 @@
+
+
+![Elizaveta Suetova](https://cdn.imgchest.com/files/b49zc3m8qzy.jpg)
 # Elizaveta Suetova
 
 ***
@@ -5,8 +8,8 @@
 ***
 #### phone: + 381 61 6890 347
 #### email: lizasuetova@gmail.com
-#### [GitHub]("https://github.com/Suetosha")
-#### [Telegram]("https://t.me/suetosha")
+#### [GitHub](https://github.com/Suetosha)
+#### [Telegram](https://t.me/suetosha)
 
 ***
 ## About myself
@@ -43,10 +46,10 @@ Focusing on become python backend developer with knowledge of web frontend basic
     - Faculty of veterinary
 
   
-- "Python Generation": course for professionals
-- "Python Generation": OOP
-- Backend development on Django: from scratch to a specialist
-- Docker for beginners + hands-on-experience
+- "Python Generation": [course for professionals](https://stepik.org/cert/2125526?lang=en)
+- "Python Generation": [OOP](https://stepik.org/cert/2153152?lang=en)
+- Backend development on Django: [from scratch to a specialist](https://stepik.org/cert/2381566?lang=en )
+- Docker [for beginners + hands-on-experience](https://stepik.org/cert/2486482?lang=en)
 - RS School JavaScript / Front-end Course - in progress
 
 
