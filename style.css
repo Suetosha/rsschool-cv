@@ -1,0 +1,104 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 1024px;
+  min-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 65vw;
+
+}
+
+.header {
+  background-color: rgba(116, 25, 221, 0.5);
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  transition: 0.3s;
+}
+
+.main {
+
+  display: flex;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.main-container {
+  padding-top: 40px;
+}
+
+
+
+.header-container {
+  flex-direction: row;
+  justify-content: center;
+}
+
+.section {
+  justify-content: center;
+  padding: 30px;
+  width: 80%;
+}
+
+.section-title {
+  padding-left: 10px;
+  background-color: rgba(116, 25, 221, 0.5);
+}
+
+.section-content {
+  padding-left: 15px;
+}
+
+.contact {
+  display: flex;
+  align-content: center;
+  gap: 10px;
+}
+
+.footer {
+  background-color: rgba(116, 25, 221, 0.5);
+}
+
+.footer-container {
+  max-width:100%;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 40px;
+  padding-right: 40px;
+}
+
+.text {
+  line-height: 2;
+  font-family: "Fustat", sans-serif;
+  font-style: normal;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+  color: black;
+}
